@@ -33,7 +33,7 @@ export default function FooterCom() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  Sahand's Blog
+                  Rohan's Blog
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
@@ -41,7 +41,7 @@ export default function FooterCom() {
               <Footer.Title title='Follow us' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://www.github.com/sahandghavidel'
+                  href='https://github.com/rohansamuel07'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
